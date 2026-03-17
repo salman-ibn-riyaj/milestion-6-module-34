@@ -24,7 +24,7 @@ const NavBar = () => {
       <span className="flex" onClick={()=>setOpen(!open)}>
         {open? <X className="md:hidden"></X> : <Menu className="md:hidden"></Menu>}
 
-        <ul className={`md:hidden absolute ${open? 'top-10':'-top-40'} duration-1000 bg-blue-200 px-2.5 rounded-md`}>
+        <ul className={`md:hidden absolute duration-1000 ${open? 'top-10':'-top-40'} bg-blue-200`}>
           {links}
         </ul>
         

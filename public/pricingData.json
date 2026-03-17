@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "duration": "1 Month",
+    "price": 1000,
+    "features": [
+      "Access to gym equipment",
+      "Locker facility",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "duration": "3 Months",
+    "price": 2700,
+    "features": [
+      "Access to gym equipment",
+      "Locker facility",
+      "Free WiFi",
+      "1 Personal Training Session"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "duration": "6 Months",
+    "price": 5000,
+    "features": [
+      "Access to gym equipment",
+      "Locker facility",
+      "Free WiFi",
+      "5 Personal Training Sessions",
+      "Diet Plan"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "VIP Plan",
+    "duration": "12 Months",
+    "popular": true,
+    "price": 9000,
+    "features": [
+      "Unlimited Access",
+      "Personal Trainer",
+      "Diet Plan",
+      "Sauna Access",
+      "Priority Support"
+    ]
+  }
+]
