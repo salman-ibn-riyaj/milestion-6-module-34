@@ -1,0 +1,11 @@
+import React from 'react';
+
+const Link = ({route}) => {
+    return (
+        <li className='hover:bg-blue-500'>
+           <a href={route.url}>{route.name}</a> 
+        </li>
+    );
+};
+
+export default Link;
