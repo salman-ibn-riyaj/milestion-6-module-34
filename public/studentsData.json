@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Adnan Sami",
+    "marks": { "physics": 85, "chemistry": 78, "math": 92 },
+    "attendance": "95%"
+  },
+  {
+    "id": 2,
+    "name": "Sara Islam",
+    "marks": { "physics": 72, "chemistry": 88, "math": 95 },
+    "attendance": "98%"
+  },
+  {
+    "id": 3,
+    "name": "Rafiq Ahmed",
+    "marks": { "physics": 90, "chemistry": 82, "math": 88 },
+    "attendance": "92%"
+  },
+  {
+    "id": 4,
+    "name": "Mehedi Hasan",
+    "marks": { "physics": 65, "chemistry": 70, "math": 60 },
+    "attendance": "85%"
+  },
+  {
+    "id": 5,
+    "name": "Nusrat Jahan",
+    "marks": { "physics": 88, "chemistry": 91, "math": 94 },
+    "attendance": "99%"
+  },
+  {
+    "id": 6,
+    "name": "Tanvir Hossain",
+    "marks": { "physics": 55, "chemistry": 62, "math": 58 },
+    "attendance": "80%"
+  },
+  {
+    "id": 7,
+    "name": "Ayesha Siddiqua",
+    "marks": { "physics": 94, "chemistry": 85, "math": 99 },
+    "attendance": "100%"
+  }
+]
